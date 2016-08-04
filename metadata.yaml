@@ -1,0 +1,45 @@
+_repo: Letters-of-Pliny_2811
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Melmoth, William
+    alias: Fitzosborne, Thomas, Sir
+    deathdate: 1799
+    gutenberg_agent_id: '1037'
+    url: http://www.gutenberg.org/2009/agents/1037
+creator:
+  author:
+    agent_name: Pliny, the Younger
+    aliases:
+    - Plinius Caecilius Secundus, Caius
+    - Plinius, Caius, Secundus
+    birthdate: 61
+    gutenberg_agent_id: '1036'
+    url: http://www.gutenberg.org/2009/agents/1036
+    wikipedia: http://en.wikipedia.org/wiki/Pliny_the_Younger
+  editor:
+    agent_name: Bosanquet, Frederick Charles Tindal
+    aliases:
+    - Bosanquet, F. C. T. (Frederick Charles Tindal)
+    - Bosanquet, Fredrick Charles Tindal
+    gutenberg_agent_id: '1038'
+    url: http://www.gutenberg.org/2009/agents/1038
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Pliny, the Younger -- Correspondence'
+- !lcsh 'Lawyers -- Rome -- Correspondence'
+- !lcsh 'Latin letters -- Translations into English'
+- !lcsh 'Authors, Latin -- Rome -- Correspondence'
+- GITenberg
+title: Letters of Pliny
+url: http://www.gutenberg.org/ebooks/2811
