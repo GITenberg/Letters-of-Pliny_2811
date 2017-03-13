@@ -1,5 +1,5 @@
 _repo: Letters-of-Pliny_2811
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Melmoth, William
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1799
     gutenberg_agent_id: '1037'
     url: http://www.gutenberg.org/2009/agents/1037
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pliny, the Younger
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '1038'
     url: http://www.gutenberg.org/2009/agents/1038
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2811#Letters-of-Pliny
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2001-09-01'
 gutenberg_type: Text
